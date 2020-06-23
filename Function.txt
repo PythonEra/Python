@@ -1,0 +1,9 @@
+5may:
+1. getter()
+-returns the value of a named attribute of an object.
+2. globals()
+-returns the dictionary of the current global symbol table.
+3.iter()
+-return an iterator object.
+4.len()
+-returns the length of an object.
